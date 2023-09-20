@@ -1,0 +1,1 @@
+function ಠ_ಠ336(ಠ_ಠ338){for(c=1;c<=10;c++)console.log(c*ಠ_ಠ338)}console.log(ಠ_ಠ336(5));
